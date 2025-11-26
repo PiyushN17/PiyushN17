@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PiyushN17
+- 👋 Hi, I’m Piyush Nath
 - 👀 I’m interested in developing and designing websites
 - 🌱 I’m currently learning backend development
 - 📫 Reach me on -- piyush.nath1710@gmail.com
