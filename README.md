@@ -22,4 +22,4 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushN17&radius=16&theme=react-dark" alt="Contribution Graph" height="200px"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake animation](https://github.com/piyushn17/piyushn17/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/yurijserrano/yurijserrano/blob/output/github-snake-dark.svg)
