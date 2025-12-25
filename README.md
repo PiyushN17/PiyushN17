@@ -2,6 +2,9 @@
 👋 Hi, I’m Piyush Nath<br>👀 I’m interested in developing and designing websites<br>🌱 I’m currently learning backend development<br>📫 Reach me on -- piyush.nath1710@gmail.com
 
 
+<img height="30" width="180px" src="https://komarev.com/ghpvc/?username=PiyushN17&label=Profile%20views&color=0e75b6&style=flat" alt="PiyushNath" />
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/connectwithpiyush)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyush.nath1710@gmail.com) 
 
