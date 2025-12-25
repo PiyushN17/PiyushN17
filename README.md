@@ -22,8 +22,4 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushN17&radius=16&theme=react-dark" alt="Contribution Graph" height="200px"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<picture>
-  <source  src="https://raw.githubusercontent.com/PiyushN17/PiyushN17/output/github-snake-dark.svg" />
-<!--   <source  src="https://raw.githubusercontent.com/adityaadpandey/adityaadpandey/output/github-snake.svg" /> -->
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/piyushn17/piyushn17/blob/output/github-snake-dark.svg)
