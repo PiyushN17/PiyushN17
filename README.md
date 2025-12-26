@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Piyush Nath<br>👀 I’m interested in developing and designing websites<br>🌱 I’m currently learning backend development<br>📫 Reach me on -- piyush.nath1710@gmail.com
+👋 Hi, I’m Piyush Nath<br>👀 I’m interested in developing websites and play with APIs<br>🌱 I’m currently learning backend development<br>📫 Reach me on -- piyush.nath1710@gmail.com
 
 
 <img height="30" width="180px" src="https://komarev.com/ghpvc/?username=PiyushN17&label=Profile%20views&color=0e75b6&style=flat" alt="PiyushNath" />
