@@ -1,5 +1,11 @@
-# 💫 About Me:
-👋 Hi, I’m Piyush Nath<br>👀 I’m interested in developing websites and play with APIs<br>🌱 I’m currently learning backend development<br>📫 Reach me on -- piyush.nath1710@gmail.com <br> LinkedIn - [@connectwithpiyush](https://www.linkedin.com/in/connectwithpiyush/) <br> Learning Node.js
+<div align="center">
+ <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&letterSpacing=bold&duration=4000&pause=1500&color=7B91FF&center=true&width=435&lines=HI%2C+There+%F0%9F%91%8B;I'm+Piyush" alt="Typing SVG" />
+ <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&letterSpacing=bold&duration=4000&pause=1500&color=AC99FF&center=true&width=800&height=80&lines=Problem-solver%2C+Developer%2C+and+Tech+Enthusiast" alt="Typing SVG" /></p>
+<!--    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding GIF"> -->
+ 
+   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="80%"  />
+</div>
 
 
 <img height="30" width="180px" src="https://komarev.com/ghpvc/?username=PiyushN17&label=Profile%20views&color=0e75b6&style=flat" alt="PiyushNath" />
