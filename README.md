@@ -20,9 +20,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=PiyushN17&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushN17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 # 📈Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushN17&radius=16&theme=react-dark" alt="Contribution Graph" height="200px"/>
 
